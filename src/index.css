@@ -59,6 +59,10 @@ main {
   cursor: pointer;
 }
 
+.form--button:hover {
+  background: linear-gradient(90.41deg, #541769 1.14%, #A818DA 100%);
+}
+
 .meme {
   position: relative;
 }
